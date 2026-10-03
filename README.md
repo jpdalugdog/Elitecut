@@ -1,77 +1,77 @@
 # EliteCut Barbershop
 
-A responsive service and appointment booking website created as a web development practice project.
+A modern and responsive barbershop service and appointment booking website built as a web development practice project.
 
-## Project Type
+## 📌 Project Overview
 
-Service + Booking Website
+EliteCut Barbershop is a fictional barbershop website designed to provide users with information about services, barbers, testimonials, and appointment booking.
 
-## Business
+The project focuses on creating a professional user experience using frontend web technologies.
 
-EliteCut Barbershop
+## ✨ Features
 
-## Location
+- Responsive navigation
+- Hero section
+- About section
+- Barbers section
+- Services and pricing
+- Appointment booking flow
+- Service selection
+- Barber selection
+- Date and time selection
+- Customer information form
+- Booking summary
+- Booking confirmation
+- Booking ID generation
+- Testimonials
+- Contact section
+- Responsive mobile design
+- Accessibility improvements
+- Frontend form validation
 
-Villasis, Pangasinan, Philippines
-
-## Technologies
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
+- Responsive Web Design
 
-## Features
-
-- Responsive navigation with mobile hamburger menu
-- Hero, About, Services, and Barber sections
-- Multi-step booking system (service, barber, date, time, customer details, review)
-- Service cards and barber cards that pre-fill the booking form
-- Form validation with inline error messages
-- Booking summary, dynamic price calculation, and Booking ID generation
-- Booking confirmation and booking reset
-- Testimonials, gallery, and contact form
-- Responsive design and accessibility features
-
-## Booking Flow
-
-Service → Barber → Date → Time → Customer Details → Review → Confirmation
-
-## Important Limitation
-
-This project is frontend-only.
-
-Bookings are not stored in a database.
-
-There is no backend or real-time appointment system.
-
-The booking flow is intended for educational and portfolio practice purposes.
-
-## Project Structure
+## 📁 Project Structure
 
 ```text
 elitecut/
-├── index.html    Page structure and content
-├── style.css     All styling and responsive rules
-├── script.js     Data arrays, booking state, steps, validation, confirmation
-├── images/       Replace the placeholder .jpg files with real photos (same file names)
-└── README.md
-```
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── images/
+    ├── hero.jpg
+    ├── about.jpg
+    ├── barber-1.jpg
+    ├── barber-2.jpg
+    ├── barber-3.jpg
+    └── ...
+🚀 Run Locally
+Download or clone this repository.
+Open the project folder in VS Code.
+Open index.html in a browser.
 
-## Run Locally
+You can also use the VS Code Live Server extension for local development.
 
-Open `index.html` in your browser, or use the VS Code "Live Server" extension.
+🌐 Live Demo
 
-## Deploy to GitHub Pages
+elitecut-kbgrzuknv-japs-tech.vercel.app
 
-1. Push the `elitecut` folder contents to a GitHub repository.
-2. Open the repository's Settings, then Pages.
-3. Under Source, choose the `main` branch and the `/ (root)` folder, then save.
-4. Open the URL GitHub shows after a minute or two.
+🎯 Purpose
 
-## Purpose
+This project was created to practice building a professional responsive service website while improving skills in HTML, CSS, JavaScript, form validation, responsive design, accessibility, and frontend interaction.
 
-This project was created to practice JavaScript logic and build a realistic appointment booking interface.
+👨‍💻 Developer
 
-## Disclaimer
+John Paul Dalugdog
 
-EliteCut Barbershop is a fictional business created for educational and portfolio practice purposes. Business information, staff names, testimonials, contact information, and appointment details are sample content.
+BSIT Student | Aspiring Web Developer
+
+⚠️ Disclaimer
+
+EliteCut Barbershop is a fictional business created for educational and portfolio practice purposes. Services, prices, barbers, testimonials, and contact information are sample content.
